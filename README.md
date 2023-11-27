@@ -12,7 +12,7 @@
 
 ## インストール方法
 * 以下の方法で使用できます。
-```
+```bash
 $ git clone https://github.com/Yusp27/robosys2023
 $ cd robosys2023
 ```
