@@ -11,12 +11,11 @@
 * Ubuntu-20.04
 
 # 実行方法
-
-'''bash
-git clone https://github.com/Yusp27/robosys2023
-cd robosys2023
+* 入力例
 seq 10 | ./plus
-'''
+
+* 出力例
+55
 
 ## 著作及びライセンス
 
