@@ -8,11 +8,12 @@
   * テスト済み: 3.7～3.10
 
 ## テスト環境
-* Ubuntu 20.04
+* Ubuntu20.04 for windows
 
 ## インストール方法
 * 以下の方法で使用できます。
 ```bash
+
 $ git clone https://github.com/Yusp27/robosys2023
 $ cd robosys2023
 ```
